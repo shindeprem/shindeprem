@@ -12,6 +12,6 @@ I am a third-year BE-IT Student studying in VPPCOE Mumbai. I am a Technical Cont
 
 ## 📌 Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shindeprem&hide_title=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=merko" height="150"       alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shindeprem&hide_title=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=merko" height="150"       alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shindeprem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  height="150"       alt="languages graph" />
 </div>
